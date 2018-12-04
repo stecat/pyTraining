@@ -7,3 +7,4 @@ Home Fn + ←   End Fn + →
 ⌘⌥L 格式化代码
 ⌃⌥O 优化import
 ⌘D  复制当前行
+⌘F7 调出类所有方法
