@@ -51,7 +51,7 @@ def buy_gun(who, gun_name):
 # 思考以上代码有没有不足的地方？
 1. 属性添加时合法检查没有，weapon写成了wepon，也能进行添加
 2. terrorist和police这2种角色有特定的角色操作限制，如不能杀队友
-3. 处了通过got_shot的方法才能减血，目前没有限制life_value的减血限制
+3. 应ß只有通过got_shot的方法才能减血，目前没有限制life_value的减血限制
 4. 如果要添加属性的时候，就会需要在每个角色里面一一添加属性，不符合代码可复用的原则
 见_2class_roles_OOP.py
 '''
