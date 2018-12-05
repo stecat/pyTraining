@@ -40,4 +40,9 @@ print(Role)  # Role没有调用但其实在内存里
 r1 = Role('steve', 'police', 'AK47')  # 此为实例化：即初始化一个类，造了一个对象，生成一个角色
 r2 = Role('ivan', 'police', 'B22')  # 此为实例化：即初始化一个类，造了一个对象，生成一个角色
 
+''' 
+其实不是r1.buy_gun()  而是role.buy_gun(self)，因为buy_gun(self)是在role的内存里，但类要知道谁在调用
+所以内部传其实转成了role.buy_gun(r1)进行处理
+所有每个方法传参里面都会带一个self，如buy_gun(self)
+'''
 r1.buy_gun("AK47")
