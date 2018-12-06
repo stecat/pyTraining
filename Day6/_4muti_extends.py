@@ -6,6 +6,9 @@ class People(object):  # 新式类
     def __init__(self, name, age):
         self.name = name
         self.age = age
+        # 朋友列表friends
+        # 在Relation()里面有append friends的操作，通过子类调用父类Relation()的方法，在父类People()里新增friends关联
+        self.friends = []
 
     def eat(self):
         print("%s is eating...." % self.name)
@@ -20,6 +23,9 @@ class People(object):  # 新式类
 class Relation(object):
     def make_friends(self, obj):  # 传参一个是自己，一个是另一个实例
         print("%s is making friend with %s" % (self.name, obj.name))
+        # 调用make_friends后就会在People类的列表friends里面添加
+        # 得添加obj，因为只添加对应name的话万一改了name这个关联就没有了
+        self.friends.append(obj)
 
 
 # class Man(People, Relation)这样Man就直接多继承了People，Relation
@@ -57,4 +63,9 @@ class Women(People, Relation):
 
 m1 = Man("steve", 22, 10)
 w1 = Women("ivan", 25)
-m1.make_friends(w1)
+
+# 得添加obj，因为只添加对应name的话万一改了name这个关联就没有了,如下改名例子：
+m1.make_friends(w1)  # 这里传的w1就是方法里的传参obj
+print(m1.friends[0].name)
+w1.name = "cat"   # 因为传了整个对象obj，所以改名后，friends列表会随着最新的对象name联动
+print(m1.friends[0].name)
