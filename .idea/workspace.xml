@@ -30,7 +30,7 @@
     <SUITE FILE_PATH="coverage/PyTraining$dictionary_loop.coverage" NAME="dictionary_loop Coverage Results" MODIFIED="1540984880155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/Day1$elseIf.coverage" NAME="elseIf Coverage Results" MODIFIED="1540722705925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyTraining$_3random_module.coverage" NAME="_3random_module Coverage Results" MODIFIED="1543558953530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
-    <SUITE FILE_PATH="coverage/pyTraining$_4muti_extends.coverage" NAME="_4muti_extends Coverage Results" MODIFIED="1544066397834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
+    <SUITE FILE_PATH="coverage/pyTraining$_4muti_extends.coverage" NAME="_4muti_extends Coverage Results" MODIFIED="1544076839855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
     <SUITE FILE_PATH="coverage/PyTraining$file_op_with.coverage" NAME="file_op_with Coverage Results" MODIFIED="1541399742166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/Day1$for.coverage" NAME="for Coverage Results" MODIFIED="1540741474881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyTraining$9Iterator1.coverage" NAME="9Iterator1 Coverage Results" MODIFIED="1542954386297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
@@ -127,12 +127,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="431" />
+          <entry key="py" value="1440" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="431" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="1440" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -148,11 +160,54 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day6/_4muti_extends.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-452">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="95">
+              <caret line="52" column="89" lean-forward="true" selection-start-line="52" selection-start-column="89" selection-end-line="52" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day6/_5muti_extends_diff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <marker date="1544086159200" expanded="true" signature="34:39" ph="..." />
+                <marker date="1544086159200" expanded="true" signature="91:96" ph="..." />
+                <marker date="1544086159200" expanded="true" signature="148:153" ph="..." />
+                <marker date="1544086159200" expanded="true" signature="507:512" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day6/_6muti_extends_school.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <marker date="1544093368706" expanded="true" signature="46:51" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="440:450" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:468" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:469" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:471" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:472" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:474" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:475" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:477" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:479" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:480" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:482" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:484" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:486" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:487" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="465:507" ph="..." />
+                <marker date="1544093368706" expanded="true" signature="589:591" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,8 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StandardStructure/ProjectName/bin/project.py" />
-        <option value="$PROJECT_DIR$/Day5/ATM/bin/atm.py" />
         <option value="$PROJECT_DIR$/Day5/ATM/db/account_sample.py" />
         <option value="$PROJECT_DIR$/Day5/ATM/db/accounts/1234" />
         <option value="$PROJECT_DIR$/Day5/ATM/core/db_handler.py" />
@@ -236,6 +289,8 @@
         <option value="$PROJECT_DIR$/Day6/_2class_roles_OOP.py" />
         <option value="$PROJECT_DIR$/Day6/_3extends.py" />
         <option value="$PROJECT_DIR$/Day6/_4muti_extends.py" />
+        <option value="$PROJECT_DIR$/Day6/_5muti_extends_diff.py" />
+        <option value="$PROJECT_DIR$/Day6/_6muti_extends_school.py" />
       </list>
     </option>
   </component>
@@ -246,8 +301,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="29" />
+    <option name="x" value="106" />
+    <option name="y" value="35" />
     <option name="width" value="1238" />
     <option name="height" value="725" />
   </component>
@@ -483,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543979623213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="company updated 20181206 am">
+      <created>1544066912428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544066912432</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -525,7 +587,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="29" width="1238" height="725" extended-state="0" />
+    <frame x="106" y="35" width="1238" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64986736" visible="true" weight="0.19147158" />
@@ -589,7 +651,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test IDEA updated directly" />
-    <option name="LAST_COMMIT_MESSAGE" value="test IDEA updated directly" />
+    <MESSAGE value="company updated 20181206 am" />
+    <option name="LAST_COMMIT_MESSAGE" value="company updated 20181206 am" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,20 +823,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day5/_1packageImport.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/_2time_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day5/shutil模块">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1015,8 +1064,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day6/_4muti_extends.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-452">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="95">
+          <caret line="52" column="89" lean-forward="true" selection-start-line="52" selection-start-column="89" selection-end-line="52" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/_5muti_extends_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1544086159200" expanded="true" signature="34:39" ph="..." />
+            <marker date="1544086159200" expanded="true" signature="91:96" ph="..." />
+            <marker date="1544086159200" expanded="true" signature="148:153" ph="..." />
+            <marker date="1544086159200" expanded="true" signature="507:512" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/_6muti_extends_school.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1544093368706" expanded="true" signature="46:51" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="440:450" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:468" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:469" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:471" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:472" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:474" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:475" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:477" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:479" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:480" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:482" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:484" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:486" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:487" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="465:507" ph="..." />
+            <marker date="1544093368706" expanded="true" signature="589:591" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

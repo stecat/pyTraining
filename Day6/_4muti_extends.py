@@ -9,6 +9,7 @@ class People(object):  # 新式类
         # 朋友列表friends
         # 在Relation()里面有append friends的操作，通过子类调用父类Relation()的方法，在父类People()里新增friends关联
         self.friends = []
+        print("in the People() __init__() not in Relation() __init__()")
 
     def eat(self):
         print("%s is eating...." % self.name)
@@ -49,7 +50,7 @@ class Man(People, Relation):
     def __init__(self, name, age, money):
         # 用super语法也可以父类的构造函数，
         # 用super以后更改父类名就不需要在子类重构中去改父类名，或者多继承的情况下也用super方便
-        # People.__init__(self, name, age)  # 需先把父类的构造方法执行一遍
+        # People.__init__(self, name, age) 需先把父类的构造方法执行一遍,如果多继承的情况下这样写就可能会影响本身子类定义的多继承的顺序
         super(Man, self).__init__(name, age)
         self.money = money
         print("%s once born with %s money" % (self.name, self.money))
