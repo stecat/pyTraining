@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2acdb7e1-0f1d-4f24-b11c-b661c98446f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6/_7duotai.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day6/_7duotai.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,14 +130,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1927" />
-          <entry key="txt" value="28" />
+          <entry key="py" value="1947" />
+          <entry key="txt" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="1927" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="Python" value="1947" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -202,27 +202,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day6/_7duotai.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="177">
+              <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
               <folding>
-                <marker date="1544239066609" expanded="true" signature="121:125" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:127" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:129" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:133" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:138" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:140" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:144" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:147" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:152" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:157" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:159" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:163" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:165" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:166" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:167" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="121:168" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="415:677" ph="..." />
-                <marker date="1544239066609" expanded="true" signature="517:536" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:125" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:127" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:129" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:133" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:138" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:140" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:144" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:147" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:152" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:157" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:159" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:163" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:165" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:166" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:167" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="121:168" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="415:677" ph="..." />
+                <marker date="1544255963050" expanded="true" signature="517:536" ph="..." />
               </folding>
             </state>
           </provider>
@@ -575,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544096551297</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="home updated 20181208 am">
+      <created>1544239446202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544239446202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -618,15 +625,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="35" width="1238" height="725" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64190984" visible="true" weight="0.20150502" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.64190984" visible="true" weight="0.20150502" />
       <window_info id="Structure" order="1" sideWeight="0.3580902" side_tool="true" visible="true" weight="0.20150502" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4992636" weight="0.32977098" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.840301" visible="true" weight="0.38196722" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.840301" visible="true" weight="0.38196722" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.86745214" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -683,7 +689,8 @@
     <MESSAGE value="test IDEA updated directly" />
     <MESSAGE value="company updated 20181206 am" />
     <MESSAGE value="company updated 20181206 pm" />
-    <option name="LAST_COMMIT_MESSAGE" value="company updated 20181206 pm" />
+    <MESSAGE value="home updated 20181208 am" />
+    <option name="LAST_COMMIT_MESSAGE" value="home updated 20181208 am" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,27 +1114,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day6/_7duotai.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="177">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
           <folding>
-            <marker date="1544239066609" expanded="true" signature="121:125" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:127" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:129" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:133" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:138" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:140" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:144" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:147" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:152" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:157" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:159" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:163" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:165" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:166" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:167" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="121:168" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="415:677" ph="..." />
-            <marker date="1544239066609" expanded="true" signature="517:536" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:125" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:127" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:129" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:133" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:138" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:140" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:144" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:147" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:152" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:157" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:159" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:163" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:165" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:166" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:167" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="121:168" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="415:677" ph="..." />
+            <marker date="1544255963050" expanded="true" signature="517:536" ph="..." />
           </folding>
         </state>
       </provider>
