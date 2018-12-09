@@ -34,3 +34,4 @@ Animal.animal_talk(d)  # 这个就是一种接口多种实现, 也是接口的�
 c = Cat("ivan")
 # c.talk()   #直接使用animal_talk
 Animal.animal_talk(c)
+
