@@ -8,7 +8,7 @@ class Animal:
     def talk(self):  # abstract method, defined by convention only
         pass  # raise NotImplementedError("subclass must implement abstract method")  异常抛出
 
-    @staticmethod  # 装饰器
+    @staticmethod  # 装饰器  见day7的静态方法staticmethod
     def animal_talk(obj):
         obj.talk()
 

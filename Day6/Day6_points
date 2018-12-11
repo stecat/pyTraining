@@ -1,0 +1,41 @@
+本节知识点：
+
+类
+    属性
+         实例变量
+         类变量
+         私有属性__var
+
+    方法
+        构造方法
+        析构函数
+        私有方法
+
+对象：实例化一个类之后得到的对象
+
+
+继承：
+    代码的重用
+    单继承
+    多继承
+        2.7 经典类-深度优先
+        2.7 新式类-广度优先
+        3.x 经典类和新式类-广度优先
+        所以3.x都应写新式类class Foo(object)
+        用super进行继承：
+    class Teacher(SchoolMember):
+      def __init__(self, name, age, sex, salary, course):   #先覆盖父类的构造函数__init__()
+        super(Teacher, self).__init__(name, age, sex)     #通过super调父类的构造方法执行一遍
+        self.salary = salary
+        self.course = course
+
+    组合继承：
+    class Teacher(SchoolMember):
+      def __init__(self, name, age, sex, salary, course，school_obj):   #先覆盖父类的构造函数__init__()
+        super(Teacher, self).__init__(name, age, sex)     #通过super调父类的构造方法执行一遍
+        self.school=school_obj    # 又要继承school的东西就直接实例化school的类传进
+        self.salary = salary
+        self.course = course
+
+
+多态：接口的重用，一种接口多种实现

@@ -28,8 +28,8 @@ class SchoolMember(object):
 
 # Teacher无法直接继承School，因为属于不同的东西，所以想到弄一个schoolmembers类
 class Teacher(SchoolMember):
-    def __init__(self, name, age, sex, salary, course):
-        super(Teacher, self).__init__(name, age, sex)
+    def __init__(self, name, age, sex, salary, course):   #先覆盖父类的构造函数__init__()
+        super(Teacher, self).__init__(name, age, sex)     #通过super调父类的构造方法执行一遍
         self.salary = salary
         self.course = course
 
