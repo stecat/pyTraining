@@ -1,6 +1,8 @@
 # 反射
 # hasattr(obj,name_str)判断一个对象obj是否有对应的name_str字符串的方法
 # getattr(obj,name_str)根据name_str字符串去获取obj对象里的对应方法的内存地址
+# setattr(obj,'y',z) is equivalent to 'x,y = v'
+# delattr
 
 
 class Dog(object):
@@ -21,7 +23,7 @@ def bulk(self):
 
 # if choice=="eat":  这样的判断调用可以用反射
 #     d.eat()
-# print(hasattr(d, choice))  # hasattr(实例，字符串) 查类里是否有对应方法
+# print(hasattr(d, choice))  # hasattr(实例，字符串) 查类里是否有对应方法/属性
 # print(getattr(d, choice))  # getattr()进行调用
 
 if hasattr(d, choice):
