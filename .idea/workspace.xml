@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2acdb7e1-0f1d-4f24-b11c-b661c98446f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day7/_4fanshe2_setattr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day7/_4fanshe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7/_4fanshe1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7/_4fanshe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7/_4fanshe1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7/_4fanshe2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
     <SUITE FILE_PATH="coverage/Day1$encrptPwd.coverage" NAME="encrptPwd Coverage Results" MODIFIED="1540721167681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyTraining$file_op_4modify.coverage" NAME="file_op_4modify Coverage Results" MODIFIED="1541232542697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/pyTraining$_11Re_mod.coverage" NAME="_11Re_mod正则 Coverage Results" MODIFIED="1543914254941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
+    <SUITE FILE_PATH="coverage/pyTraining$_6exception2_userDefined.coverage" NAME="_6exception2_userDefined Coverage Results" MODIFIED="1545293397639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/PyTraining$_2datetime_module.coverage" NAME="_2datetime_module Coverage Results" MODIFIED="1543493245794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/PyTraining$test.coverage" NAME="test Coverage Results" MODIFIED="1542249267031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/PyTraining$Decorator5_Practice.coverage" NAME="Decorator5_Practice Coverage Results" MODIFIED="1542595592072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
@@ -62,6 +65,7 @@
     <SUITE FILE_PATH="coverage/PyTraining$tuple_mod.coverage" NAME="tuple_mod Coverage Results" MODIFIED="1540948774854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$_8xml_mod2.coverage" NAME="_8xml_mod2 Coverage Results" MODIFIED="1543653292743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/PyTraining$_10hashlib_mod.coverage" NAME="_10hashlib_mod Coverage Results" MODIFIED="1543711786390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
+    <SUITE FILE_PATH="coverage/pyTraining$_4fanshe2.coverage" NAME="_4fanshe2 Coverage Results" MODIFIED="1545118689611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/PyTraining$13pickle.coverage" NAME="13pickle序列化 Coverage Results" MODIFIED="1543032852958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/pyTraining$_1staticmethod.coverage" NAME="_1staticmethod Coverage Results" MODIFIED="1544532319601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/PyTraining$_11Re_mod.coverage" NAME="_11Re_mod正则 Coverage Results" MODIFIED="1543833994264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
@@ -71,6 +75,7 @@
     <SUITE FILE_PATH="coverage/PyTraining$17Json3.coverage" NAME="17Json序列化3 Coverage Results" MODIFIED="1543034802087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/PyTraining$Decorator4.coverage" NAME="Decorator4 Coverage Results" MODIFIED="1542357377974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/pyTraining$_3propertymethod.coverage" NAME="_3propertymethod Coverage Results" MODIFIED="1544931171255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
+    <SUITE FILE_PATH="coverage/pyTraining$_5exception1.coverage" NAME="_5exception1 Coverage Results" MODIFIED="1545290966525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/PyTraining$func_7.coverage" NAME="func_7 Coverage Results" MODIFIED="1542268885927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$file_op.coverage" NAME="file_op Coverage Results" MODIFIED="1541120744949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/pyTraining$_2classmethod.coverage" NAME="_2classmethod Coverage Results" MODIFIED="1544931143761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
@@ -90,8 +95,10 @@
     <SUITE FILE_PATH="coverage/PyTraining$file_op_.coverage" NAME="file_op_ Coverage Results" MODIFIED="1541121455850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$encoding.coverage" NAME="encoding Coverage Results" MODIFIED="1541413627070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1542270018263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/pyTraining$_4fanshe1.coverage" NAME="_4fanshe1 Coverage Results" MODIFIED="1545119635494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/pyTraining$_2class_roles.coverage" NAME="_2class_roles Coverage Results" MODIFIED="1543915145096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
     <SUITE FILE_PATH="coverage/PyTraining$7Generator2_Fib.coverage" NAME="7Generator2_Fib Coverage Results" MODIFIED="1542789819970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/pyTraining$_4fanshe3_delattr.coverage" NAME="_4fanshe3_delattr Coverage Results" MODIFIED="1545119062437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day7" />
     <SUITE FILE_PATH="coverage/PyTraining$list.coverage" NAME="list Coverage Results" MODIFIED="1540890656614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$printWithColor.coverage" NAME="printWithColor Coverage Results" MODIFIED="1540965429663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/PyTraining$8Generator_.coverage" NAME="8Generator_并行 Coverage Results" MODIFIED="1542791794510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
@@ -137,52 +144,34 @@
         <counts>
           <entry key="Day6_points" value="389" />
           <entry key="Day7_points" value="78" />
-          <entry key="dummy" value="1" />
-          <entry key="py" value="2509" />
-          <entry key="txt" value="36" />
+          <entry key="dummy" value="15" />
+          <entry key="py" value="3986" />
+          <entry key="txt" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="504" />
-          <entry key="Python" value="2509" />
+          <entry key="PLAIN_TEXT" value="519" />
+          <entry key="Python" value="3986" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Day6_points" value="1" />
           <entry key="Day7_points" value="1" />
-          <entry key="py" value="12" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="12" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/_3extends.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/_2class_roles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day6/_1class_dog.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -222,20 +211,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day7/_4fanshe1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state>
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day7/_4fanshe2.py">
+        <entry file="file://$PROJECT_DIR$/Day7/_5exception1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="238">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7/_6exception2_userDefined.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <marker date="1545293438734" expanded="true" signature="69:74" ph="..." />
+                <marker date="1545293438734" expanded="true" signature="433:434" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day7/_4fanshe2_setattr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day7/_4fanshe3_delattr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -277,10 +297,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day5/ATM/core/main.py" />
-        <option value="$PROJECT_DIR$/Day5/1module.py" />
-        <option value="$PROJECT_DIR$/Day5/module/1module.py" />
-        <option value="$PROJECT_DIR$/Day5/module/_1module.py" />
         <option value="$PROJECT_DIR$/Day5/module/main.py" />
         <option value="$PROJECT_DIR$/Day5/ATM/core/auth.py" />
         <option value="$PROJECT_DIR$/Day5/package/packageCall.py" />
@@ -327,7 +343,11 @@
         <option value="$PROJECT_DIR$/Day7/Day7_points" />
         <option value="$PROJECT_DIR$/Day7/_4fanshe.py" />
         <option value="$PROJECT_DIR$/Day7/_4fanshe2.py" />
+        <option value="$PROJECT_DIR$/Day7/_4fanshe3_delattr.py" />
+        <option value="$PROJECT_DIR$/Day7/_4fanshe2_setattr.py" />
         <option value="$PROJECT_DIR$/Day7/_4fanshe1.py" />
+        <option value="$PROJECT_DIR$/Day7/_5exception1.py" />
+        <option value="$PROJECT_DIR$/Day7/_6exception2_userDefined.py" />
       </list>
     </option>
   </component>
@@ -529,8 +549,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._3propertymethod">
-    <configuration name="_1staticmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python._6exception2_userDefined">
+    <configuration name="_4fanshe1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyTraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -543,7 +563,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_1staticmethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_4fanshe1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -552,7 +572,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_2classmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_4fanshe2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyTraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -565,7 +585,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_2classmethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_4fanshe2_setattr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -574,7 +594,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_3propertymethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_4fanshe3_delattr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyTraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -587,7 +607,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_3propertymethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_4fanshe3_delattr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -596,7 +616,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_4muti_extends" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_5exception1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyTraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -604,12 +624,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/_4muti_extends.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_5exception1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -618,7 +638,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_7duotai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_6exception2_userDefined" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyTraining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -626,12 +646,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/_7duotai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day7/_6exception2_userDefined.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -641,19 +661,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python._4muti_extends" />
-      <item itemvalue="Python._7duotai" />
-      <item itemvalue="Python._1staticmethod" />
-      <item itemvalue="Python._2classmethod" />
-      <item itemvalue="Python._3propertymethod" />
+      <item itemvalue="Python._4fanshe2" />
+      <item itemvalue="Python._4fanshe3_delattr" />
+      <item itemvalue="Python._4fanshe1" />
+      <item itemvalue="Python._5exception1" />
+      <item itemvalue="Python._6exception2_userDefined" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python._3propertymethod" />
-        <item itemvalue="Python._2classmethod" />
-        <item itemvalue="Python._1staticmethod" />
-        <item itemvalue="Python._7duotai" />
-        <item itemvalue="Python._4muti_extends" />
+        <item itemvalue="Python._6exception2_userDefined" />
+        <item itemvalue="Python._5exception1" />
+        <item itemvalue="Python._4fanshe1" />
+        <item itemvalue="Python._4fanshe3_delattr" />
+        <item itemvalue="Python._4fanshe2" />
       </list>
     </recent_temporary>
   </component>
@@ -732,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544931224307</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="home updated 20181218 am">
+      <created>1545096673342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545096673342</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,7 +802,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="35" width="1238" height="725" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6366048" visible="true" weight="0.20819397" />
       <window_info id="Structure" order="1" sideWeight="0.3633952" side_tool="true" visible="true" weight="0.20819397" />
@@ -783,15 +809,15 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4992636" weight="0.32977098" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.83779263" visible="true" weight="0.38196722" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8369565" visible="true" weight="0.38196722" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.8561873" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49852726" weight="0.32977098" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49749163" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.78718704" weight="0.33587787" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.78595316" weight="0.33442622" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16220737" side_tool="true" visible="true" weight="0.38196722" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16304348" side_tool="true" visible="true" weight="0.38196722" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.82106036" weight="0.32977098" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -842,7 +868,8 @@
     <MESSAGE value="company updated 20181206 pm" />
     <MESSAGE value="home updated 20181208 am" />
     <MESSAGE value="home updated 20181216 am" />
-    <option name="LAST_COMMIT_MESSAGE" value="home updated 20181216 am" />
+    <MESSAGE value="home updated 20181218 am" />
+    <option name="LAST_COMMIT_MESSAGE" value="home updated 20181218 am" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1013,9 +1040,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py" />
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/dbm/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Day5/shelve_mod" />
     <entry file="file://$PROJECT_DIR$/Day5/shelve_mod.txt" />
     <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/shelve.py" />
@@ -1296,17 +1320,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day7/_4fanshe2.py">
+    <entry file="file://$PROJECT_DIR$/Day7/_4fanshe3_delattr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="109">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/_4fanshe2_setattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day7/_4fanshe1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/_5exception1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/_6exception2_userDefined.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1545293438734" expanded="true" signature="69:74" ph="..." />
+            <marker date="1545293438734" expanded="true" signature="433:434" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

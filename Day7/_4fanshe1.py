@@ -35,4 +35,7 @@ else:  # 如果没有对应的方法是否可以加一个，如下
     # print("no %s func in Dog" % choice)
     setattr(d, choice, bulk)
     # talk是在input时输入的字符，其实就通过上句setattr与方法bulk进行了关联，但调用需用talk
-    d.talk(d)  # 调用的时候需要把实例d传入
+    # d.talk(d)  # 调用的时候需要把实例d传入  #相当于 d.talk = bulk
+    # 这个用法记住！！--> 以下是上面d.talk()的优化，就不需要考虑输入的参数是什么都可以进行调用
+    func2 = getattr(d, choice)
+    func2(d)
